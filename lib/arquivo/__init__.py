@@ -1,4 +1,4 @@
-from sistemaModularizado.lib.interface import cabecalho
+from lib.interface import cabecalho
 
 
 def arquivoExiste(nome):

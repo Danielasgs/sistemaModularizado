@@ -1,5 +1,5 @@
-from sistemaModularizado.lib.interface import *
-from sistemaModularizado.lib.arquivo import *
+from lib.interface import *
+from lib.arquivo import *
 from time import sleep
 
 arq = 'CursoEmVideo.txt'
